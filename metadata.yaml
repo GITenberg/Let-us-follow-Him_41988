@@ -1,0 +1,35 @@
+_repo: Let-us-follow-Him_41988
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Curtin, Jeremiah
+    birthdate: 1835
+    deathdate: 1906
+    gutenberg_agent_id: '1053'
+    url: http://www.gutenberg.org/2009/agents/1053
+covers:
+- cover_type: archival
+  image_path: 41988-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sienkiewicz, Henryk
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1052'
+    url: http://www.gutenberg.org/2009/agents/1052
+    wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
+description: ''
+gutenberg_issued: '2013-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Jesus Christ -- Crucifixion -- Fiction'
+- !lcsh 'Palestine -- History -- To 70 A.D. -- Fiction'
+title: Let us follow Him
+url: http://www.gutenberg.org/ebooks/41988
