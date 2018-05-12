@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1052
     wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41988#Let-us-follow-Him
 gutenberg_issued: '2013-02-03'
 gutenberg_type: Text
 identifiers:
